@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{67abfe9c-550b-48d0-93d2-e45413859bb8}</ProjectGuid>
-    <RootNamespace>taskkiller</RootNamespace>
+    <ProjectGuid>{4906d951-5975-401d-9d94-1105f5e425d8}</ProjectGuid>
+    <RootNamespace>tskkller</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="task-killer.cpp" />
+    <ClCompile Include="tskkller.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
